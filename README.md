@@ -1,1 +1,1 @@
-# Jeanne d'Isk - a tool to quckly find potential to reclaim disk space
+# Jeanne d'Isk - a tool to quickly find potential to reclaim disk space
